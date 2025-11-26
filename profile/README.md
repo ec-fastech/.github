@@ -1,8 +1,5 @@
-# 🦅 Engenharia da Computação — FASTECH  
-### Faculdade de Tecnologia de Sinop
-
-Bem-vindo ao perfil oficial do **Curso de Engenharia da Computação da FASTECH**!  
-Aqui você encontrará os projetos, materiais, códigos, frameworks acadêmicos e iniciativas desenvolvidas por alunos e professores ao longo da graduação.
+# 🦅 Bem-vindo ao perfil oficial do **Curso de Engenharia da Computação da FASTECH**!  
+### Aqui você encontrará os projetos, materiais, códigos, frameworks acadêmicos e iniciativas desenvolvidas por alunos e professores ao longo da graduação.
 
 ---
 
